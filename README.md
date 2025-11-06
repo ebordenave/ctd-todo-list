@@ -10,6 +10,7 @@ A simple and flexible task management application designed to help users stay or
 - Assign tasks to different users
 - Configure **recurring tasks**
 - Set optional due dates for Tasks
+---
 
 ## Stretch Goals
 
@@ -17,9 +18,7 @@ A simple and flexible task management application designed to help users stay or
 - Cross-platform sync
 - API development
 - Mobile support (_future consideration_)
-
 ---
-
 ## Installation Instructions
 
 ### 1. Clone the repository
@@ -47,5 +46,5 @@ npm create vite@latest . -- --template react
 npm run dev
 ```
 By default, this ToDo App will run at:
-``http://localhost:5173``
+```http://localhost:5173```
 ---
